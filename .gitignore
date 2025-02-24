@@ -1,0 +1,4 @@
+.idea/
+/com-landingis-api/target/
+*.iml
+*.DS_Store
